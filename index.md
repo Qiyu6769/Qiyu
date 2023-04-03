@@ -1,6 +1,7 @@
-## About Me
+## About Me  ##
 
-I am major in Financial Engineering and I will graduate from Lehigh University with a master of science degree in May 2023. I seek to be part of a team that reflects my ambitious and driven personality. I am applying to our company because of my intention of accelerating my professionalism, and in doing so, establishing a meaningful career focused on societal impact.
+My name is Qiyu Yang. I am major in Financial Engineering and I will graduate from Lehigh University with a master of science degree in May 2023. I seek to be part of a team that reflects my ambitious and driven personality. I am applying to our company because of my intention of accelerating my professionalism, and in doing so, establishing a meaningful career focused on societal impact.
+
 ---
 
 ## Portfolio
