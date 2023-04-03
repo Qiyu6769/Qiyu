@@ -1,15 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
-
+I am major in Financial Engineering and I will graduate from Lehigh University with a master of science degree in May 2023. I seek to be part of a team that reflects my ambitious and driven personality. I am applying to our company because of my intention of accelerating my professionalism, and in doing so, establishing a meaningful career focused on societal impact.
 ---
 
 ## Portfolio
