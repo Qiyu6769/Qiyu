@@ -8,11 +8,11 @@ My name is Qiyu Yang. I am major in Financial Engineering and I will graduate fr
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](/mid_report/report.md)**_
+_**[10-Ks analysis](/mid_report/report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/regression_9.png?raw=true"/>
+<img src="mid_report/output_21_9.png?raw=true"/>
 
 ---
 
