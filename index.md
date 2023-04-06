@@ -11,8 +11,10 @@ My name is Qiyu Yang. I am major in Financial Engineering and I will graduate fr
 _**[10-Ks analysis](/mid_report/report.md)**_
 
 You can see the detailed report clicking the 10-ks analysis. And I listed two results related to innavation below:
+
 negative:
 <img src="mid_report/output_21_6.png?raw=true"/>
+
 positive:
 <img src="mid_report/output_21_7.png?raw=true"/>
 
