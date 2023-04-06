@@ -29,8 +29,8 @@ Prediction of house price: The final predicted saleprice based on linear regress
 ---
 
 ## Career Objectives
-I am going to accelerating my professionalism, and in doing so, establishing a meaningful career focused on societal impact.
 
+I am going to accelerating my professionalism, and in doing so, establishing a meaningful career focused on societal impact.
 
 ---
 
