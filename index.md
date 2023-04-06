@@ -37,6 +37,7 @@ I am going to accelerating my professionalism, and in doing so, establishing a m
 ## Skills and Hobbies
 
 Skills: Python, Microsoft Suits, Eviews
+
 Hobbies: Photography, music
 
 ---
