@@ -1,6 +1,6 @@
 ## About Me  ##
 
-My name is Qiyu Yang. I am major in Financial Engineering and I will graduate from Lehigh University with a master of science degree in May 2023. I seek to be part of a team that reflects my ambitious and driven personality. I am going to accelerating my professionalism, and in doing so, establishing a meaningful career focused on societal impact.
+My name is Qiyu Yang. I am major in Financial Engineering and I will graduate from Lehigh University with a master of science degree in May 2023. I seek to be part of a team that reflects my ambitious and driven personality.
 
 ---
 
@@ -20,37 +20,24 @@ positive:
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Some personal project](/other_regression/Final_hand.md)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+Prediction of house price: The final predicted saleprice based on linear regression model.
 
-<img src="images/regression_6.jpg?raw=true"/>
-<img src="images/regression_7.jpg?raw=true"/>
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="other_regression/output_55_1.png?raw=true"/>
 
 ---
 
 ## Career Objectives
+I am going to accelerating my professionalism, and in doing so, establishing a meaningful career focused on societal impact.
 
-Write what you want. 
-
-Sell yourself!
 
 ---
 
-## Hobbies
+## Skills and Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Skills: Python, Microsoft Suits, Eviews
+Hobbies: Photography, music
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
