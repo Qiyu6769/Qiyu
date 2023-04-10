@@ -55,7 +55,7 @@ Hobbies: Photography, music
 ---
 **attention**
 
-Click on each title to see the full analysis
+Please click on each title to see the full analysis.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
