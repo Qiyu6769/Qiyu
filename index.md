@@ -10,7 +10,8 @@ My name is Qiyu Yang. I am major in Financial Engineering and I will graduate fr
 
 _**[10-Ks analysis](/mid_report/report.md)**_
 
-You can see the detailed report clicking the 10-ks analysis. And I listed two results related to innavation below:
+
+You can see the detailed report clicking the 10-ks analysis.The main purpose of the analysis is finding the relationship between different variables and retunrs. And I listed two results related to innavation below:
 
 negative:
 <img src="mid_report/output_21_6.png?raw=true"/>
@@ -19,6 +20,17 @@ positive:
 <img src="mid_report/output_21_7.png?raw=true"/>
 
 ---
+
+_**[Regression Practice](/regression/regression.md)**_
+
+On the interpretation of the coefficients of linear regression in house price forecasting. Find the variable with the highest relative correlation.
+We can see that the variables in the original data have outlier or missing values. But I don't deal with these raw values in this document firstly.
+
+<img src="regression/output_20_1.png?raw=true"/>
+<img src="regression/output_17_2.png?raw=true"/>
+---
+
+
 
 _**[Some personal project](/other_regression/Final_hand.md)**_
 
