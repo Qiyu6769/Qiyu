@@ -28,8 +28,8 @@ We can see that the variables in the original data have outlier or missing value
 
 <img src="regression/output_20_1.png?raw=true"/>
 <img src="regression/output_17_2.png?raw=true"/>
----
 
+---
 
 
 _**[Some personal project](/other_regression/Final_hand.md)**_
