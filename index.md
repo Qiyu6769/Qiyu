@@ -11,7 +11,7 @@ My name is Qiyu Yang. I am major in Financial Engineering and I will graduate fr
 _**[10-Ks analysis](/mid_report/report.md)**_
 
 
-By clicking on the 10-Ks analysis, a detailed report can be accessed. The primary objective of this analysis is to establish the correlation between various variables and returns. In terms of innovation, two noteworthy outcomes(negative / positive innoation) have been identified and are listed below:
+By clicking on the 10-Ks analysis, a detailed report can be accessed. The primary objective of this analysis is to establish the correlation between various variables and returns. In terms of innovation, two noteworthy outcomes(negative / positive) have been identified and are listed below:
 
 negative:
 <img src="mid_report/output_21_6.png?raw=true"/>
