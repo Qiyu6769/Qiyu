@@ -33,7 +33,7 @@ This document focuses on the interpretation of linear regression coefficients in
 
 _**[Some personal project](/other_regression/Final_hand.md)**_
 
-Prediction of house price: The final predicted saleprice based on linear regression model.
+The primary objective of this analysis is to forecast housing prices. To achieve this, various regression models, including Linear, Decision Tree, Random Forest, and Gboost, were compared. Based on the evaluation of the mean squared error (MSE), the linear regression model was selected as the optimal predictor. The predicted results are presented below:
 
 <img src="other_regression/output_55_1.png?raw=true"/>
 
