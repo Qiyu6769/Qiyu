@@ -41,7 +41,7 @@ The primary objective of this analysis is to forecast housing prices. To achieve
 
 ## Career Objectives
 
-Financial analyst or risl analyst seeking a challenging role in a dynamic organization where I can utilize my skills in finance, business and analytics to develop innovative financial strategies and establish a meaningful career focused on societal impact.
+Financial analyst or risk analyst seeking a challenging role in a dynamic organization where I can utilize my skills in finance, business and analytics to develop innovative financial strategies and establish a meaningful career focused on societal impact.
 
 
 ---
