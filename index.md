@@ -1,6 +1,6 @@
 ## About Me  ##
 
-My name is Qiyu Yang. I am major in Financial Engineering and I will graduate from Lehigh University with a master of science degree in May 2023. I seek to be part of a team that reflects my ambitious and driven personality.
+My name is Qiyu Yang. I am majoring in Financial Engineering and I will graduate from Lehigh University with a master of science degree in May 2023. I seek to be part of a team that reflects my ambitious and driven personality.
 
 ---
 
@@ -11,19 +11,19 @@ My name is Qiyu Yang. I am major in Financial Engineering and I will graduate fr
 _**[10-Ks analysis](/mid_report/report.md)**_
 
 
-By clicking on the 10-Ks analysis, a detailed report can be accessed. The primary objective of this analysis is to establish the correlation between various variables and returns. In terms of innovation, two noteworthy outcomes(negative / positive) have been identified and are listed below:
+By clicking on the 10-Ks analysis, a detailed report can be accessed. The primary objective of this analysis is to establish the correlation between various variables and returns. In terms of innovation, two noteworthy outcomes(negative/positive) have been identified and are listed below:
 
-negative:
+Negative:
 <img src="mid_report/output_21_6.png?raw=true"/>
 
-positive:
+Positive:
 <img src="mid_report/output_21_7.png?raw=true"/>
 
 ---
 
 _**[Regression Practice](/regression/regression.md)**_
 
-This document focuses on the interpretation of linear regression coefficients in house price forecasting and aims to identify the variable with the strongest relative correlation. It should be noted that the original data contains outliers and missing values, which have not been addressed in this analysis. And please click thee Regression Practice to see the whole analysis.
+This document focuses on the interpretation of linear regression coefficients in house price forecasting and aims to identify the variable with the strongest relative correlation. It should be noted that the original data contains outliers and missing values, which have not been addressed in this analysis. Please click the Regression Practice to see the whole analysis.
 
 <img src="regression/output_20_1.png?raw=true"/>
 <img src="regression/output_17_2.png?raw=true"/>
@@ -51,10 +51,6 @@ Skills: Python, Microsoft Suits, Eviews
 
 Hobbies: Photography, music
 
----
-**attention**
-
-Please click on each title to see the full analysis.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
