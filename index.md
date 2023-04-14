@@ -31,7 +31,7 @@ This document focuses on the interpretation of linear regression coefficients in
 ---
 
 
-_**[Some personal project](/other_regression/Final_hand.md)**_
+_**[Housing price prediction](/other_regression/Final_hand.md)**_
 
 The primary objective of this analysis is to forecast housing prices. To achieve this, various regression models, including Linear, Decision Tree, Random Forest, and Gboost, were compared. Based on the evaluation of the mean squared error (MSE), the linear regression model was selected as the optimal predictor. The predicted results are presented below:
 
@@ -41,7 +41,8 @@ The primary objective of this analysis is to forecast housing prices. To achieve
 
 ## Career Objectives
 
-I am going to accelerating my professionalism, and in doing so, establishing a meaningful career focused on societal impact.
+Financial analyst or risl analyst seeking a challenging role in a dynamic organization where I can utilize my skills in finance, business and analytics to develop innovative financial strategies and establish a meaningful career focused on societal impact.
+
 
 ---
 
