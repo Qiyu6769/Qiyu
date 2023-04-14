@@ -48,7 +48,7 @@ Financial analyst or risk analyst seeking a challenging role in a dynamic organi
 
 ## Skills and Hobbies
 
-Skills: Python, Microsoft Suits, Eviews
+Skills: Python, Tableau, Microsoft Suits, Eviews
 
 Hobbies: Photography, music
 
