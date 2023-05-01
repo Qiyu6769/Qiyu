@@ -41,7 +41,7 @@ these are the top 10 predictor variables for the model:
 
 ---
 
-_**[Team project](https://jerseyk-final-project-sunset-website-welcome-eoomf2.streamlit.app/)**_   
+_**[Pandemic effect on Supply chain](https://jerseyk-final-project-sunset-website-welcome-eoomf2.streamlit.app/)**_   
 
 We have developed a comprehensive dashboard that provides insightful visualizations of how the COVID-19 pandemic has affected the supply chain industry. Our dashboard encompasses a variety of supply chain companies that have been merged with the S&P 500, providing users with a broad perspective on the market trends. The dashboard enables users to evaluate the level of participation for each seller industry and provides access to the accounting messages of individual seller companies. 
 
