@@ -29,9 +29,18 @@ This document focuses on the interpretation of linear regression coefficients in
 <img src="regression/output_17_2.png?raw=true"/>
 
 ---
+_**[Housing price prediction 1](/prediction_model/model.md)**_
 
+For raw data processing, first of all, I removed the values with a missing value greater than 80%, and selected a few variables that I thought were more informative to make a graph to see if they had outlier, and removed them. I selected lasso, lassoCV, RandomForestRegressor, LGBMRegressor, and XGBRegressor for the prediction models. I compared the respective R2 and selected the highest value for the holdout prediction. (To avoid overfitting the model as much as possible)
 
-_**[Housing price prediction](/other_regression/Final_hand.md)**_
+**LGBMRegressor** is the one I chose at last. The R2 score is 0.9960.
+
+these are the top 10 predictor variables for the model:
+
+<img src="prediction_model/output_5_0.png?raw=true"/>
+---
+
+_**[Housing price prediction 2](/other_regression/Final_hand.md)**_
 
 The primary objective of this analysis is to forecast housing prices. To achieve this, various regression models, including Linear, Decision Tree, Random Forest, and Gboost, were compared. Based on the evaluation of the mean squared error (MSE), the linear regression model was selected as the optimal predictor. The predicted results are presented below:
 
