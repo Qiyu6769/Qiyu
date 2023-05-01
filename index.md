@@ -38,6 +38,12 @@ For raw data processing, first of all, I removed the values with a missing value
 these are the top 10 predictor variables for the model:
 
 <img src="prediction_model/output_5_0.png?raw=true"/>
+
+---
+_**[Team project](/prediction_model/model.md)**_   *## We will address how to get the public website on Monday* 
+
+We have developed a comprehensive dashboard that provides insightful visualizations of how the COVID-19 pandemic has affected the supply chain industry. Our dashboard encompasses a variety of supply chain companies that have been merged with the S&P 500, providing users with a broad perspective on the market trends. The dashboard enables users to evaluate the level of participation for each seller industry and provides access to the accounting messages of individual seller companies. Our team has leveraged advanced analytics and data visualization techniques to develop an intuitive and user-friendly dashboard that enables users to navigate and interpret the data with ease. The dashboard provides real-time updates and is a valuable resource for investors and analysts seeking to monitor the supply chain industry's impact during these challenging times.
+
 ---
 
 _**[Housing price prediction 2](/other_regression/Final_hand.md)**_
