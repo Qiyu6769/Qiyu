@@ -29,7 +29,7 @@ This document focuses on the interpretation of linear regression coefficients in
 <img src="regression/output_17_2.png?raw=true"/>
 
 ---
-_**[Housing price prediction 1](/prediction_model/model.md)**_
+_**[Housing price prediction 1]**_
 
 For raw data processing, first of all, I removed the values with a missing value greater than 80%, and selected a few variables that I thought were more informative to make a graph to see if they had outlier, and removed them. I selected lasso, lassoCV, RandomForestRegressor, LGBMRegressor, and XGBRegressor for the prediction models. I compared the respective R2 and selected the highest value for the holdout prediction. (To avoid overfitting the model as much as possible)
 
