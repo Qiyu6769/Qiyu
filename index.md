@@ -47,6 +47,8 @@ We have developed a comprehensive dashboard that provides insightful visualizati
 
 Our team has leveraged analytics and data visualization techniques to develop an intuitive and user-friendly dashboard that enables users to navigate and interpret the data with ease. The dashboard provides real-time updates and is a valuable resource for investors and analysts seeking to monitor the supply chain industry's impact during these challenging times.
 
+<img src="images/dashboard.png?raw=true"/>
+
 ---
 
 _**[Housing price prediction 2](/other_regression/Final_hand.md)**_
