@@ -59,6 +59,14 @@ The primary objective of this analysis is to forecast housing prices. To achieve
 
 ---
 
+<a href="pdf/final report modified.pdf"btn btn--info">Capstone projects</a> 
+                                                     
+1. Qualitative and quantitative analysis of compelling common features for top technology stocks within the field.
+2. Data cleaning and transferring and detected autocorrelation analysis of cryptocurrency and inflation.
+3. Predicted and analyzed stock prices based on falling knife trends. Reported that both VaR and CVaR are calculated based on the marginal and joint distribution respectively. Measured the risk of falling and rising probabilities.
+                                       
+---
+                                         
 ## Career Objectives
 
 Financial analyst or risk analyst seeking a challenging role in a dynamic organization where I can utilize my skills in finance, business and analytics to develop innovative financial strategies and establish a meaningful career focused on societal impact.
