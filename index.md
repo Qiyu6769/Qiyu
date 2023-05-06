@@ -47,7 +47,7 @@ We have developed a comprehensive dashboard that provides insightful visualizati
 
 Our team has leveraged analytics and data visualization techniques to develop an intuitive and user-friendly dashboard that enables users to navigate and interpret the data with ease. The dashboard provides real-time updates and is a valuable resource for investors and analysts seeking to monitor the supply chain industry's impact during these challenging times. 
 
-**Conclusion:** Health care sector increased 20%, Consumer Staples increased 30%, Information Technology increased 40%.
+**Conclusion:** Health care sector increased 20%, Consumer Staples sector increased 30%, Information Technology sector increased 40%.
 
 <img src="images/dashboard.png?raw=true"/>
 
