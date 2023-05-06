@@ -59,7 +59,7 @@ The primary objective of this analysis is to forecast housing prices. To achieve
 
 ---
 
-_**[Capstone projects](/pdf/final report modified.pdf)**_
+_**[Capstone projects](/pdf/final_report.pdf)**_
                                                      
 1. Qualitative and quantitative analysis of compelling common features for top technology stocks within the field.
 2. Data cleaning and transferring and detected autocorrelation analysis of cryptocurrency and inflation.
